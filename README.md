@@ -17,12 +17,12 @@
 
 
 ### Languages and Tools:
-* [Python][Pylogo]
-* [Java][Jalogo]
-* [ROS][ROSlogo]
-* [Terminal][Terlogo]
-* [Git][Gitlogo]
-* [Github][GHlogo]
+* ![Python][Pylogo]
+* ![Java][Jalogo]
+* ![ROS][ROSlogo]
+* ![Terminal][Terlogo]
+* ![Git][Gitlogo]
+* ![Github][GHlogo]
 
 
 <!--
