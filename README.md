@@ -16,14 +16,14 @@
 * 📧 hdehesaortiz@gmail.com
 
 
-### Languages and Tools:
+<!--### Languages and Tools:
 * ![Python][Pylogo]
 * ![Java][Jalogo]
 * ![ROS][ROSlogo]
 * ![Terminal][Terlogo]
 * ![Git][Gitlogo]
 * ![Github][GHlogo]
-
+-->
 
 <!--
 **AntonioDehesa/AntonioDehesa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
