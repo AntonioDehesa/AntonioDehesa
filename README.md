@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 -->
 
 [linkedin]: https://www.linkedin.com/in/heriberto-antonio-dehesa-ortiz-847995153/
-[Gitlogo]: https
-[GHlogo]: https
-[Pylogo]: https
-[Jalogo]: https
-[Terlogo]: https:
-[Gitlogo]: https:
+[Gitlogo]: https://github.com/AntonioDehesa/AntonioDehesa/blob/main/Images/git.png
+[GHlogo]: https://github.com/AntonioDehesa/AntonioDehesa/blob/main/Images/github.png
+[Pylogo]: https://github.com/AntonioDehesa/AntonioDehesa/blob/main/Images/Python.png
+[Jalogo]: https://github.com/AntonioDehesa/AntonioDehesa/blob/main/Images/Java.png
+[Terlogo]: https://github.com/AntonioDehesa/AntonioDehesa/blob/main/Images/Terminal.png
+[ROSlogo]: https://github.com/AntonioDehesa/AntonioDehesa/blob/main/Images/ROS.png
