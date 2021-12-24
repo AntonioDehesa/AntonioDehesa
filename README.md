@@ -1,15 +1,10 @@
 ## Hi there 👋
-## My name is Antonio. I am a Robotics Engineer, currently working as a cybersecurity consultant jr.
+## My name is Antonio. I am a Technical Solutions Engineer, which is basically costumer service, for the Google Cloud Platform, Data team!
 ## 👓 Currently learning: 
-* ROS. Navigation.
-* Cybersecurity. Secure coding practices. 
-* Docker
+* Web Development
 
-## Learning goals for 2021: 
-* Docker
-* Django
-* Computer vision
-* Anything else!!! I love learning
+## Learning goals for 2022: 
+* Data Science
 
 ### Contact Me
 * [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
