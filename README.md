@@ -1,10 +1,10 @@
 ## Hi there 👋
-## My name is Antonio. I am a Technical Solutions Engineer, which is basically costumer service, for the Google Cloud Platform, Data team!
+## My name is Antonio. I am a Technical Solutions Engineer L3 for the Google Cloud Platform, AI/ML team!
 ## 👓 Currently learning: 
-* Web Development
+* Mobile App Development using Flutter
 
-## Learning goals for 2022: 
-* Data Science
+## Learning goals for 2024: 
+* App development with Flutter
 
 ### Contact Me
 * [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
